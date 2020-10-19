@@ -1,2 +1,2 @@
-# c20-bounceOff-algorithim
-bounce off algorithim for sprites
+# p5.play-boilerplate
+Boiler plate for p5.play
